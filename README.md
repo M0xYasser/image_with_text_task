@@ -1,6 +1,6 @@
 # flutter_task_1
 
-User Profile with Flutter UI!
+Icon & Text with Flutter UI!
 
 
 ## REAL ScreenShot
